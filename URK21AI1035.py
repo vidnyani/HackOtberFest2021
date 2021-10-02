@@ -15,4 +15,4 @@ def mult():
 
     else:
         print("Error")
-
+mult()
