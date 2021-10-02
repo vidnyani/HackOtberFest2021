@@ -1,4 +1,4 @@
-exitimport cv2
+import cv2
 import numpy as np
 frameWidth = 480
 frameHeight = 480
